@@ -1,0 +1,19 @@
+This recipe manager should work on any PC with Python installed.
+
+If Python is not installed, you can either download it from the Microsoft Store or visit their official website to install it.
+
+The Python file which holds the main code is W2212841_recipe_manager.py within the nearby folder "W2212841_recipe_manager", simply double clicking this file should work. 
+
+However certain systems have shown an error with finding the files that are used for this application, if this happens, no worries! 
+
+Simply launch the application through your cmd, this can be done by either simply typing in the name of the program when you are in its location, or by typing in python or py command before the name of the program.
+
+E.g.: py W2212841_recipe_manager.py
+
+The application stores certain data in a folder called "W2212841_program_data", in order to protect your file data, it is recommended to not EDIT any of the files in that folder.
+
+The application also exports recipes, these exported recipes can be found in the folder "W2212841_exported_recipes" folder.
+
+I hope you enjoy this application!
+
+-- N.M. Yahya (20241597)

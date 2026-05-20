@@ -1,0 +1,44 @@
+Main Menu
+Add Recipes
+Edit Recipes
+Duplicate Recipes
+View Recipes
+Export Recipes
+Delete Recipes
+View Statistics
+Exit
+
+View Menu
+View All Recipes
+View A Specific Recipe
+View Filtered Recipe/s
+Search
+Return to Main Menu
+
+Export Multiple Recipes As:
+A Single File
+Multiple Files
+
+Delete Menu
+Delete Specific Recipes
+Delete All Recipes
+Return to Main Menu
+
+Valid Measuring Units
+g
+kg
+ml
+l
+cup
+tbsp
+tsp
+piece
+
+Recipe Categories
+BREAKFAST
+LUNCH
+DINNER
+DESSERT
+SNACK
+BEVERAGE
+

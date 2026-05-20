@@ -1,0 +1,9 @@
+Name : Mango Lassi
+Category :  BEVERAGE
+Time Taken: 00:05
+Tags :  {'cold', 'sweet'}
+Ingredients :
+Mango - 1.0 piece
+Yogurt - 200.0 ml
+Sugar - 1.0 tbsp
+Cardamom - 1.0 tsp

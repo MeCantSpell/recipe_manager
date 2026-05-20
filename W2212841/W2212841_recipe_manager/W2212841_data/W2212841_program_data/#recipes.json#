@@ -1,0 +1,142 @@
+{
+    "RCP001": {
+        "name": "Scrambled Eggs",
+        "ingredients": [["Eggs", 3.0, "piece"], ["Butter", 15.0, "g"], ["Salt", 1.0, "tsp"]],
+        "time": "00:10",
+        "category": "BREAKFAST",
+        "tags": ["quick", "easy"]
+    },
+    "RCP002": {
+        "name": "Chicken Curry",
+        "ingredients": [["Chicken", 500.0, "g"], ["Onion", 2.0, "piece"], ["Tomato", 3.0, "piece"], ["Curry Powder", 2.0, "tbsp"]],
+        "time": "01:00",
+        "category": "DINNER",
+        "tags": ["spicy", "comfort food"]
+    },
+    "RCP003": {
+        "name": "Banana Smoothie",
+        "ingredients": [["Banana", 2.0, "piece"], ["Milk", 250.0, "ml"], ["Honey", 1.0, "tbsp"]],
+        "time": "00:05",
+        "category": "BEVERAGE",
+        "tags": ["healthy", "quick"]
+    },
+    "RCP004": {
+        "name": "Vegetable Fried Rice",
+        "ingredients": [["Rice", 200.0, "g"], ["Carrot", 1.0, "piece"], ["Peas", 50.0, "g"], ["Soy Sauce", 2.0, "tbsp"], ["Egg", 2.0, "piece"]],
+        "time": "00:30",
+        "category": "LUNCH",
+        "tags": ["vegetarian"]
+    },
+    "RCP005": {
+        "name": "Chocolate Cake",
+        "ingredients": [["Flour", 200.0, "g"], ["Sugar", 150.0, "g"], ["Cocoa Powder", 50.0, "g"], ["Butter", 100.0, "g"], ["Eggs", 2.0, "piece"]],
+        "time": "01:30",
+        "category": "DESSERT",
+        "tags": ["sweet", "baked"]
+    },
+    "RCP006": {
+        "name": "Caesar Salad",
+        "ingredients": [["Lettuce", 200.0, "g"], ["Croutons", 50.0, "g"], ["Parmesan", 30.0, "g"], ["Caesar Dressing", 3.0, "tbsp"]],
+        "time": "00:15",
+        "category": "LUNCH",
+        "tags": ["healthy", "cold"]
+    },
+    "RCP007": {
+        "name": "Beef Stew",
+        "ingredients": [["Beef", 500.0, "g"], ["Potato", 3.0, "piece"], ["Carrot", 2.0, "piece"], ["Onion", 1.0, "piece"], ["Beef Stock", 500.0, "ml"]],
+        "time": "02:00",
+        "category": "DINNER",
+        "tags": ["hearty", "comfort food"]
+    },
+    "RCP008": {
+        "name": "Pancakes",
+        "ingredients": [["Flour", 150.0, "g"], ["Milk", 200.0, "ml"], ["Egg", 1.0, "piece"], ["Butter", 20.0, "g"], ["Sugar", 2.0, "tbsp"]],
+        "time": "00:20",
+        "category": "BREAKFAST",
+        "tags": ["sweet", "quick"]
+    },
+    "RCP009": {
+        "name": "Tomato Soup",
+        "ingredients": [["Tomato", 500.0, "g"], ["Onion", 1.0, "piece"], ["Garlic", 3.0, "piece"], ["Cream", 100.0, "ml"]],
+        "time": "00:40",
+        "category": "LUNCH",
+        "tags": ["warm", "comfort food"]
+    },
+    "RCP010": {
+        "name": "Mango Lassi",
+        "ingredients": [["Mango", 1.0, "piece"], ["Yogurt", 200.0, "ml"], ["Sugar", 1.0, "tbsp"], ["Cardamom", 1.0, "tsp"]],
+        "time": "00:05",
+        "category": "BEVERAGE",
+        "tags": ["sweet", "cold"]
+    },
+    "RCP011": {
+        "name": "Grilled Salmon",
+        "ingredients": [["Salmon", 300.0, "g"], ["Lemon", 1.0, "piece"], ["Olive Oil", 2.0, "tbsp"], ["Garlic", 2.0, "piece"]],
+        "time": "00:25",
+        "category": "DINNER",
+        "tags": ["healthy", "grilled"]
+    },
+    "RCP012": {
+        "name": "French Toast",
+        "ingredients": [["Bread", 4.0, "piece"], ["Egg", 2.0, "piece"], ["Milk", 50.0, "ml"], ["Cinnamon", 1.0, "tsp"], ["Butter", 10.0, "g"]],
+        "time": "00:15",
+        "category": "BREAKFAST",
+        "tags": ["sweet", "easy"]
+    },
+    "RCP013": {
+        "name": "Vanilla Ice Cream",
+        "ingredients": [["Cream", 300.0, "ml"], ["Sugar", 100.0, "g"], ["Vanilla Extract", 1.0, "tsp"], ["Egg Yolk", 3.0, "piece"]],
+        "time": "04:00",
+        "category": "DESSERT",
+        "tags": ["sweet", "cold"]
+    },
+    "RCP014": {
+        "name": "Lemon Tea",
+        "ingredients": [["Tea Bags", 2.0, "piece"], ["Lemon", 1.0, "piece"], ["Honey", 1.0, "tbsp"], ["Water", 500.0, "ml"]],
+        "time": "00:05",
+        "category": "BEVERAGE",
+        "tags": ["warm", "quick"]
+    },
+    "RCP015": {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [["Spaghetti", 200.0, "g"], ["Minced Beef", 300.0, "g"], ["Tomato Sauce", 200.0, "ml"], ["Onion", 1.0, "piece"], ["Garlic", 2.0, "piece"]],
+        "time": "00:45",
+        "category": "DINNER",
+        "tags": ["italian", "comfort food"]
+    },
+    "RCP016": {
+        "name": "Fruit Salad",
+        "ingredients": [["Apple", 1.0, "piece"], ["Banana", 1.0, "piece"], ["Grapes", 100.0, "g"], ["Orange", 1.0, "piece"]],
+        "time": "00:10",
+        "category": "SNACK",
+        "tags": ["healthy", "cold"]
+    },
+    "RCP017": {
+        "name": "Oatmeal",
+        "ingredients": [["Oats", 100.0, "g"], ["Milk", 200.0, "ml"], ["Honey", 1.0, "tbsp"], ["Banana", 1.0, "piece"]],
+        "time": "00:10",
+        "category": "BREAKFAST",
+        "tags": ["healthy", "quick"]
+    },
+    "RCP018": {
+        "name": "Cheese Sandwich",
+        "ingredients": [["Bread", 2.0, "piece"], ["Cheese", 50.0, "g"], ["Butter", 10.0, "g"]],
+        "time": "00:05",
+        "category": "SNACK",
+        "tags": ["quick", "easy"]
+    },
+    "RCP019": {
+        "name": "Mushroom Risotto",
+        "ingredients": [["Arborio Rice", 200.0, "g"], ["Mushroom", 150.0, "g"], ["Onion", 1.0, "piece"], ["Parmesan", 50.0, "g"], ["Vegetable Stock", 500.0, "ml"]],
+        "time": "00:50",
+        "category": "DINNER",
+        "tags": ["italian", "vegetarian"]
+    },
+    "RCP020": {
+        "name": "Brownies",
+        "ingredients": [["Chocolate", 100.0, "g"], ["Butter", 80.0, "g"], ["Sugar", 150.0, "g"], ["Eggs", 2.0, "piece"], ["Flour", 80.0, "g"]],
+        "time": "00:45",
+        "category": "DESSERT",
+        "tags": ["sweet", "baked"]
+    }
+}

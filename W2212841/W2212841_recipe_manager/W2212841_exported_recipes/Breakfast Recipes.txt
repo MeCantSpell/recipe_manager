@@ -1,0 +1,41 @@
+Recipe 1 :  Scrambled Eggs
+Category :  BREAKFAST
+Time Taken: 00:10
+Tags :  {'easy', 'quick'}
+Ingredients :Eggs - 3.0 piece
+Butter - 15.0 g
+Salt - 1.0 tsp
+
+
+Recipe 2 :  Pancakes
+Category :  BREAKFAST
+Time Taken: 00:20
+Tags :  {'quick', 'sweet'}
+Ingredients :Flour - 150.0 g
+Milk - 200.0 ml
+Egg - 1.0 piece
+Butter - 20.0 g
+Sugar - 2.0 tbsp
+
+
+Recipe 3 :  French Toast
+Category :  BREAKFAST
+Time Taken: 00:15
+Tags :  {'easy', 'sweet'}
+Ingredients :Bread - 4.0 piece
+Egg - 2.0 piece
+Milk - 50.0 ml
+Cinnamon - 1.0 tsp
+Butter - 10.0 g
+
+
+Recipe 4 :  Oatmeal
+Category :  BREAKFAST
+Time Taken: 00:10
+Tags :  {'healthy', 'quick'}
+Ingredients :Oats - 100.0 g
+Milk - 200.0 ml
+Honey - 1.0 tbsp
+Banana - 1.0 piece
+
+
